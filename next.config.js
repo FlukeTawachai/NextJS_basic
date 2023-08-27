@@ -8,6 +8,7 @@ const nextConfig = {
         hostname: 'i.dummyjson.com',
       },
     ],
+    unoptimized: true,
   },
 }
 

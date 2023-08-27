@@ -1,9 +1,9 @@
-body{
+body {
   background: #f2f2f2;
   color: black;
 }
 
-nav{
+nav {
   margin: 10px auto;
   padding: 10px 0;
   display: flex;
@@ -12,7 +12,7 @@ nav{
   background: #333;
 }
 
-nav a{
+nav a {
   color: white;
   text-decoration: none;
   margin-left: 12px;
@@ -20,7 +20,7 @@ nav a{
   padding: 10px;
 }
 
-footer{
+footer {
   display: block;
   text-align: center;
   padding: 10px 0;
@@ -29,6 +29,6 @@ footer{
   border-top: 1px solid #eaeaea;
 }
 
-a{
+a {
   text-decoration: none;
 }
